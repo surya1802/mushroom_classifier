@@ -87,16 +87,3 @@ Additional Notes
 The dataset mushroom_cleaned.csv should be placed in the root directory of the repository.
 This project demonstrates the effectiveness of Random Forest in classifying mushrooms based on their physical characteristics.
 For any questions or contributions, please contact me or open an issue on GitHub.
-
-Feel free to adjust the text according to your specific project details and preferences. To add this file to your GitHub repository, you can follow these steps:
-
-Create the File Locally:
-
-Save the above content into a file named README.txt using any text editor.
-
-Add the File to Your Repository:
-
-git add README.txt
-git commit -m "Add README.txt with project details"
-git push origin main
-Replace main with the appropriate branch name if your default branch is different. This will upload the README.txt to your GitHub repository.
